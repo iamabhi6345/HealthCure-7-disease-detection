@@ -1,0 +1,1 @@
+# HealthCure-7-disease-detection
